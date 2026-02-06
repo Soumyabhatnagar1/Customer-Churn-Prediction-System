@@ -32,9 +32,9 @@ By analyzing customer behavior and account information, this project predicts:
 2. Data is preprocessed using the same encoder and scaler used during training
 3. The trained ML model predicts churn risk
 4. Results are displayed with:
-   1.Churn status (High / Low risk)
-   2. Probability score
-   3. Explanation of influencing features
+    1.Churn status (High / Low risk)
+    2. Probability score
+    3. Explanation of influencing features
 
 ## 📈 Results & Insights
 
